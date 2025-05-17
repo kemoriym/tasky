@@ -1,3 +1,2 @@
 wizexercise
-Revised for 
-Tech exe test 2nd
+Revised for Tech Exercise
