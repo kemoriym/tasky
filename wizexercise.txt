@@ -1,2 +1,2 @@
 wizexercise
-wiz text file
+wiz
