@@ -1,4 +1,2 @@
 wizexercise
-wiz code
-wiz cloud
-wiz defend
+wiz text file
